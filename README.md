@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **geraldsantosjoaquin1@gmail.com**
 
