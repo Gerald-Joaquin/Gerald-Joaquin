@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently studying in Diploma in Computer Engineering Technology**  
+- 🎓 Currently studying in Diploma in Computer Engineering Technology  
 - 🛠️ Software Engineering Specialized
 - 🌱 Interested in **Web systems**  
 
