@@ -5,9 +5,6 @@
   
 # 👋 Hi, I'm Gerald  
 
-💻 *Aspiring Software Engineer*  
-⚡ Passionate about building scalable apps, automation tools, and clean UIs.  
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Always+learning+something+new.;Sharing+projects+and+ideas+here!)
 
 ---
@@ -21,10 +18,9 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently learning **Python, JavaScript, PHP (Laravel), and Java**  
+- 🎓 Currently learning **Python, JavaScript, PHP, and Java**  
 - 🛠️ Building innovative systems 
 - 🌱 Interested in **Web systems**  
-- 🎯 Career Goal: Become a **Software Engineer/Cloud Engineer**  
 
 ---
 
@@ -36,8 +32,3 @@
 
 ---
 
-<div align="center">
-
-### ✨ *“Code is like art — the cleaner it is, the more beautiful it becomes.”* ✨  
-
-</div>
