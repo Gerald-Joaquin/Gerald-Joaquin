@@ -14,8 +14,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently learning **Python, JavaScript, PHP, and Java**  
-- 🛠️ Building innovative systems 
+- 🎓 Currently studying in Diploma in Computer Engineering Technology**  
+- 🛠️ Software Engineering Specialized
 - 🌱 Interested in **Web systems**  
 
 ---
