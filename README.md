@@ -13,17 +13,16 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 Currently studying in Diploma in Computer Engineering Technology  
-- 🛠️ Software Engineering Specialized
-- 🌱 Interested in **Web systems**  
+##  About Me  
+- Currently studying in Diploma in Computer Engineering Technology  
+- Interested in **Web systems**  
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,java,git,vue,react" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,java,git,vue,react,nextjs" />
 </p>
 
 ---
