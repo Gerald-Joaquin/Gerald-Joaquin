@@ -5,18 +5,11 @@
   
 # 👋 Hi, I'm Gerald  
 
-### 🌐 Connect with Me  
-<a href="geraldsantosjoaquin1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/gerald-joaquin-71992232a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </div>
-
----
 
 ##  About Me  
 - Currently studying in Diploma in Computer Engineering Technology  
 - Interested in **Web systems**  
-
 ---
 
 ## Tech Stack  
